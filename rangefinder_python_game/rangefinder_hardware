@@ -1,0 +1,6 @@
+Wiring the HC-SR04 to the Arduino Leonardo:
+
+	1.	VCC to 5V on Arduino.
+	2.	GND to GND on Arduino.
+	3.	TRIG to Pin 9 on Arduino.
+	4.	ECHO to Pin 10 on Arduino.
